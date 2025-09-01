@@ -1,0 +1,1 @@
+ window.alert('Bem Vindo a Página Sobre Mim espero que gostei!');
